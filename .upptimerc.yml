@@ -21,7 +21,7 @@ status-website:
   cname: apps.status.ambler.kr
   logoUrl: https://raw.githubusercontent.com/amblerkr/amblerkr/master/img/LOGO_trans.png
   name: Apps | Ambler Status
-  introTitle: "**Upptime** for Ambler"
+  introTitle: "**Upptime** for Apps"
   introMessage: ⚡ Open Source
   navbar:
     - title: Status
