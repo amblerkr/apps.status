@@ -2,17 +2,27 @@ owner: amblerkr
 repo: apps.status
 
 sites:
-  - name: ambler.kr
-    url: https://ambler.kr/
-  - name: link.ambler.kr
-    url: https://link.ambler.kr/
+  - name: svg-to-png.ambler.kr
+    url: https://svg-to-png.ambler.kr/
+  - name: notion-widgets.ambler.kr
+    url: https://notion-widgets.ambler.kr/
+  - name: rsshub.ambler.kr
+    url: https://rsshub.ambler.kr/
+  - name: discord-ifttt.ambler.kr
+    url: https://discord-ifttt.ambler.kr/
+  - name: calendar-svg.ambler.kr
+    url: https://calendar-svg.ambler.kr/
+  - name: discord-ifttt.ambler.kr
+    url: https://discord-ifttt.ambler.kr/
+  - name: github-readme-stats.ambler.kr
+    url: https://github-readme-stats.ambler.kr/api?username=amblerkr
 
 status-website:
   cname: apps.status.ambler.kr
   logoUrl: https://raw.githubusercontent.com/amblerkr/amblerkr/master/img/LOGO_trans.png
   name: Apps | Ambler Status
   introTitle: "**Upptime** for Ambler"
-  introMessage: ⚡
+  introMessage: ⚡ Open Source
   navbar:
     - title: Status
       href: /
