@@ -6,16 +6,14 @@ sites:
     url: https://svg-to-png.ambler.kr/
   - name: notion-widgets.ambler.kr
     url: https://notion-widgets.ambler.kr/
-  - name: rsshub.ambler.kr
-    url: https://rsshub.ambler.kr/
   - name: discord-ifttt.ambler.kr
     url: https://discord-ifttt.ambler.kr/
   - name: calendar-svg.ambler.kr
     url: https://calendar-svg.ambler.kr/
-  - name: discord-ifttt.ambler.kr
-    url: https://discord-ifttt.ambler.kr/
   - name: github-readme-stats.ambler.kr
     url: https://github-readme-stats.ambler.kr/api?username=amblerkr
+  - name: rsshub.ambler.kr
+    url: https://rsshub.ambler.kr/
 
 status-website:
   cname: apps.status.ambler.kr
