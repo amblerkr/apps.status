@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 258,
-    "timeDay": 177,
-    "timeWeek": 194,
-    "timeMonth": 258,
-    "timeYear": 258,
+    "time": 253,
+    "timeDay": 190,
+    "timeWeek": 189,
+    "timeMonth": 253,
+    "timeYear": 253,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 190,
-    "timeDay": 164,
-    "timeWeek": 190,
-    "timeMonth": 190,
-    "timeYear": 190,
+    "time": 193,
+    "timeDay": 229,
+    "timeWeek": 198,
+    "timeMonth": 193,
+    "timeYear": 193,
     "dailyMinutesDown": {}
   },
   {
@@ -41,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/discord-ifttt.ambler.kr.ico",
     "slug": "discord-ifttt-ambler-kr",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 187,
-    "timeDay": 185,
-    "timeWeek": 249,
+    "timeDay": 189,
+    "timeWeek": 248,
     "timeMonth": 187,
     "timeYear": 187,
-    "dailyMinutesDown": {
-      "2023-01-01": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "calendar-svg.ambler.kr",
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 243,
-    "timeDay": 34,
-    "timeWeek": 264,
-    "timeMonth": 243,
-    "timeYear": 243,
+    "time": 267,
+    "timeDay": 575,
+    "timeWeek": 342,
+    "timeMonth": 267,
+    "timeYear": 267,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 839,
-    "timeDay": 1159,
+    "time": 791,
+    "timeDay": 164,
     "timeWeek": 771,
-    "timeMonth": 839,
-    "timeYear": 839,
+    "timeMonth": 791,
+    "timeYear": 791,
     "dailyMinutesDown": {}
   },
   {
@@ -102,11 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 478,
-    "timeDay": 419,
-    "timeWeek": 498,
-    "timeMonth": 478,
-    "timeYear": 478,
+    "time": 494,
+    "timeDay": 702,
+    "timeWeek": 579,
+    "timeMonth": 494,
+    "timeYear": 494,
     "dailyMinutesDown": {}
   }
 ]
