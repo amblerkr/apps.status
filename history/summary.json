@@ -4,19 +4,19 @@
     "url": "https://svg-to-png.ambler.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/svg-to-png.ambler.kr.ico",
     "slug": "svg-to-png-ambler-kr",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 280,
-    "timeDay": 334,
-    "timeWeek": 252,
-    "timeMonth": 299,
+    "timeDay": 232,
+    "timeWeek": 237,
+    "timeMonth": 294,
     "timeYear": 280,
     "dailyMinutesDown": {
-      "2023-05-23": 2
+      "2023-05-23": 5
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://calendar-svg.ambler.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/calendar-svg.ambler.kr.ico",
     "slug": "calendar-svg-ambler-kr",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 279,
-    "timeDay": 318,
-    "timeWeek": 218,
-    "timeMonth": 233,
-    "timeYear": 279,
+    "time": 281,
+    "timeDay": 429,
+    "timeWeek": 258,
+    "timeMonth": 243,
+    "timeYear": 281,
     "dailyMinutesDown": {
-      "2023-05-23": 1
+      "2023-05-23": 4
     }
   },
   {
@@ -80,19 +80,19 @@
     "url": "https://github-readme-stats.ambler.kr/api?username=amblerkr",
     "icon": "https://icons.duckduckgo.com/ip3/github-readme-stats.ambler.kr.ico",
     "slug": "github-readme-stats-ambler-kr",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 750,
-    "timeDay": 1443,
-    "timeWeek": 613,
-    "timeMonth": 801,
-    "timeYear": 750,
+    "time": 753,
+    "timeDay": 1310,
+    "timeWeek": 684,
+    "timeMonth": 813,
+    "timeYear": 753,
     "dailyMinutesDown": {
-      "2023-05-23": 0
+      "2023-05-23": 4
     }
   },
   {
