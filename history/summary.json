@@ -94,17 +94,19 @@
     "url": "https://rsshub.ambler.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/rsshub.ambler.kr.ico",
     "slug": "rsshub-ambler-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 463,
-    "timeDay": 318,
-    "timeWeek": 540,
-    "timeMonth": 406,
-    "timeYear": 463,
-    "dailyMinutesDown": {}
+    "time": 512,
+    "timeDay": 4686,
+    "timeWeek": 1605,
+    "timeMonth": 676,
+    "timeYear": 512,
+    "dailyMinutesDown": {
+      "2023-06-13": 0
+    }
   }
 ]
