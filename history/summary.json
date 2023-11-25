@@ -22,19 +22,19 @@
     "url": "https://notion-widgets.ambler.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/notion-widgets.ambler.kr.ico",
     "slug": "notion-widgets-ambler-kr",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 262,
-    "timeDay": 168,
-    "timeWeek": 164,
-    "timeMonth": 250,
+    "timeDay": 153,
+    "timeWeek": 161,
+    "timeMonth": 246,
     "timeYear": 262,
     "dailyMinutesDown": {
-      "2023-11-25": 0
+      "2023-11-25": 5
     }
   },
   {
