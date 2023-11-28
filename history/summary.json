@@ -6,9 +6,9 @@
     "slug": "svg-to-png-ambler-kr",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 262,
     "timeDay": 165,
@@ -16,7 +16,7 @@
     "timeMonth": 257,
     "timeYear": 262,
     "dailyMinutesDown": {
-      "2023-11-28": 2
+      "2023-11-28": 5
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://notion-widgets.ambler.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/notion-widgets.ambler.kr.ico",
     "slug": "notion-widgets-ambler-kr",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 263,
-    "timeDay": 797,
-    "timeWeek": 254,
+    "timeDay": 515,
+    "timeWeek": 251,
     "timeMonth": 258,
     "timeYear": 263,
     "dailyMinutesDown": {
-      "2023-11-28": 1
+      "2023-11-28": 5
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://calendar-svg.ambler.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/calendar-svg.ambler.kr.ico",
     "slug": "calendar-svg-ambler-kr",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 235,
-    "timeDay": 171,
-    "timeWeek": 180,
-    "timeMonth": 179,
+    "timeDay": 208,
+    "timeWeek": 188,
+    "timeMonth": 181,
     "timeYear": 235,
     "dailyMinutesDown": {
-      "2023-11-28": 1
+      "2023-11-28": 4
     }
   },
   {
@@ -82,19 +82,19 @@
     "url": "https://github-readme-stats.ambler.kr/api?username=amblerkr",
     "icon": "https://icons.duckduckgo.com/ip3/github-readme-stats.ambler.kr.ico",
     "slug": "github-readme-stats-ambler-kr",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 792,
-    "timeDay": 33,
-    "timeWeek": 525,
-    "timeMonth": 616,
+    "timeDay": 530,
+    "timeWeek": 588,
+    "timeMonth": 629,
     "timeYear": 792,
     "dailyMinutesDown": {
-      "2023-11-28": 0
+      "2023-11-28": 4
     }
   },
   {
