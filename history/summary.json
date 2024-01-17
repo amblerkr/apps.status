@@ -4,18 +4,20 @@
     "url": "https://svg-to-png.ambler.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/svg-to-png.ambler.kr.ico",
     "slug": "svg-to-png-ambler-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 259,
-    "timeDay": 226,
-    "timeWeek": 232,
-    "timeMonth": 253,
-    "timeYear": 254,
-    "dailyMinutesDown": {}
+    "time": 261,
+    "timeDay": 783,
+    "timeWeek": 371,
+    "timeMonth": 287,
+    "timeYear": 257,
+    "dailyMinutesDown": {
+      "2024-01-17": 0
+    }
   },
   {
     "name": "notion-widgets.ambler.kr",
@@ -58,54 +60,59 @@
     "url": "https://calendar-svg.ambler.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/calendar-svg.ambler.kr.ico",
     "slug": "calendar-svg-ambler-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 233,
-    "timeDay": 76,
-    "timeWeek": 165,
-    "timeMonth": 247,
+    "time": 234,
+    "timeDay": 179,
+    "timeWeek": 179,
+    "timeMonth": 249,
     "timeYear": 235,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-17": 0
+    }
   },
   {
     "name": "github-readme-stats.ambler.kr",
     "url": "https://github-readme-stats.ambler.kr/api?username=amblerkr",
     "icon": "https://icons.duckduckgo.com/ip3/github-readme-stats.ambler.kr.ico",
     "slug": "github-readme-stats-ambler-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 807,
-    "timeDay": 95,
-    "timeWeek": 685,
-    "timeMonth": 797,
-    "timeYear": 820,
-    "dailyMinutesDown": {}
+    "time": 808,
+    "timeDay": 725,
+    "timeWeek": 769,
+    "timeMonth": 814,
+    "timeYear": 821,
+    "dailyMinutesDown": {
+      "2024-01-17": 0
+    }
   },
   {
     "name": "rsshub.ambler.kr",
     "url": "https://rsshub.ambler.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/rsshub.ambler.kr.ico",
     "slug": "rsshub-ambler-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 476,
-    "timeDay": 575,
-    "timeWeek": 435,
-    "timeMonth": 431,
+    "timeDay": 465,
+    "timeWeek": 425,
+    "timeMonth": 428,
     "timeYear": 477,
     "dailyMinutesDown": {
+      "2024-01-17": 0,
       "2023-06-13": 83
     }
   }
