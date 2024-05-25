@@ -76,19 +76,19 @@
     "url": "https://github-readme-stats.ambler.kr/api?username=amblerkr",
     "icon": "https://icons.duckduckgo.com/ip3/github-readme-stats.ambler.kr.ico",
     "slug": "github-readme-stats-ambler-kr",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 845,
-    "timeDay": 5742,
-    "timeWeek": 1808,
-    "timeMonth": 1145,
-    "timeYear": 864,
+    "time": 843,
+    "timeDay": 3884,
+    "timeWeek": 1626,
+    "timeMonth": 1115,
+    "timeYear": 862,
     "dailyMinutesDown": {
-      "2024-05-25": 0
+      "2024-05-25": 5
     }
   },
   {
