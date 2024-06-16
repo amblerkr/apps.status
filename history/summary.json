@@ -4,19 +4,19 @@
     "url": "https://svg-to-png.ambler.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/svg-to-png.ambler.kr.ico",
     "slug": "svg-to-png-ambler-kr",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 263,
-    "timeDay": 218,
-    "timeWeek": 320,
+    "time": 264,
+    "timeDay": 237,
+    "timeWeek": 312,
     "timeMonth": 242,
     "timeYear": 265,
     "dailyMinutesDown": {
-      "2024-06-16": 0
+      "2024-06-16": 12
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://notion-widgets.ambler.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/notion-widgets.ambler.kr.ico",
     "slug": "notion-widgets-ambler-kr",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 257,
-    "timeDay": 270,
-    "timeWeek": 191,
-    "timeMonth": 235,
+    "timeDay": 223,
+    "timeWeek": 189,
+    "timeMonth": 233,
     "timeYear": 242,
     "dailyMinutesDown": {
-      "2024-06-16": 0
+      "2024-06-16": 12
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://discord-ifttt.ambler.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/discord-ifttt.ambler.kr.ico",
     "slug": "discord-ifttt-ambler-kr",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 244,
-    "timeDay": 241,
-    "timeWeek": 173,
+    "timeDay": 215,
+    "timeWeek": 175,
     "timeMonth": 187,
-    "timeYear": 250,
+    "timeYear": 249,
     "dailyMinutesDown": {
-      "2024-06-16": 0
+      "2024-06-16": 12
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://calendar-svg.ambler.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/calendar-svg.ambler.kr.ico",
     "slug": "calendar-svg-ambler-kr",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 229,
-    "timeDay": 233,
-    "timeWeek": 174,
+    "time": 230,
+    "timeDay": 210,
+    "timeWeek": 176,
     "timeMonth": 183,
     "timeYear": 207,
     "dailyMinutesDown": {
-      "2024-06-16": 0
+      "2024-06-16": 12
     }
   },
   {
@@ -84,19 +84,19 @@
     "url": "https://github-readme-stats.ambler.kr/api?username=amblerkr",
     "icon": "https://icons.duckduckgo.com/ip3/github-readme-stats.ambler.kr.ico",
     "slug": "github-readme-stats-ambler-kr",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 835,
-    "timeDay": 992,
-    "timeWeek": 948,
-    "timeMonth": 1047,
-    "timeYear": 844,
+    "timeDay": 1045,
+    "timeWeek": 967,
+    "timeMonth": 1048,
+    "timeYear": 845,
     "dailyMinutesDown": {
-      "2024-06-16": 0
+      "2024-06-16": 12
     }
   },
   {
@@ -104,19 +104,19 @@
     "url": "https://rsshub.ambler.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/rsshub.ambler.kr.ico",
     "slug": "rsshub-ambler-kr",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 463,
-    "timeDay": 328,
-    "timeWeek": 677,
-    "timeMonth": 443,
+    "time": 464,
+    "timeDay": 301,
+    "timeWeek": 627,
+    "timeMonth": 437,
     "timeYear": 441,
     "dailyMinutesDown": {
-      "2024-06-16": 0
+      "2024-06-16": 12
     }
   }
 ]
