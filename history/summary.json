@@ -4,19 +4,19 @@
     "url": "https://svg-to-png.ambler.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/svg-to-png.ambler.kr.ico",
     "slug": "svg-to-png-ambler-kr",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 266,
-    "timeDay": 237,
-    "timeWeek": 221,
+    "time": 268,
+    "timeDay": 246,
+    "timeWeek": 226,
     "timeMonth": 259,
-    "timeYear": 266,
+    "timeYear": 269,
     "dailyMinutesDown": {
-      "2025-08-15": 0
+      "2025-08-15": 14
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://notion-widgets.ambler.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/notion-widgets.ambler.kr.ico",
     "slug": "notion-widgets-ambler-kr",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 251,
-    "timeDay": 392,
-    "timeWeek": 276,
-    "timeMonth": 323,
+    "timeDay": 346,
+    "timeWeek": 273,
+    "timeMonth": 321,
     "timeYear": 255,
     "dailyMinutesDown": {
-      "2025-08-15": 0
+      "2025-08-15": 14
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://discord-ifttt.ambler.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/discord-ifttt.ambler.kr.ico",
     "slug": "discord-ifttt-ambler-kr",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 247,
-    "timeDay": 198,
-    "timeWeek": 301,
+    "timeDay": 213,
+    "timeWeek": 295,
     "timeMonth": 255,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2025-08-15": 0
+      "2025-08-15": 14
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://calendar-svg.ambler.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/calendar-svg.ambler.kr.ico",
     "slug": "calendar-svg-ambler-kr",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 229,
-    "timeDay": 255,
-    "timeWeek": 229,
-    "timeMonth": 226,
+    "timeDay": 267,
+    "timeWeek": 236,
+    "timeMonth": 228,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2025-08-15": 0
+      "2025-08-15": 14
     }
   },
   {
@@ -84,19 +84,19 @@
     "url": "https://github-readme-stats.ambler.kr/api?username=amblerkr",
     "icon": "https://icons.duckduckgo.com/ip3/github-readme-stats.ambler.kr.ico",
     "slug": "github-readme-stats-ambler-kr",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.99%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 815,
-    "timeDay": 816,
-    "timeWeek": 1155,
-    "timeMonth": 911,
-    "timeYear": 814,
+    "time": 819,
+    "timeDay": 1366,
+    "timeWeek": 1300,
+    "timeMonth": 957,
+    "timeYear": 819,
     "dailyMinutesDown": {
-      "2025-08-15": 0
+      "2025-08-15": 15
     }
   },
   {
@@ -104,19 +104,19 @@
     "url": "https://rsshub.ambler.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/rsshub.ambler.kr.ico",
     "slug": "rsshub-ambler-kr",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 921,
-    "timeDay": 431,
-    "timeWeek": 1167,
-    "timeMonth": 1384,
-    "timeYear": 986,
+    "time": 928,
+    "timeDay": 1548,
+    "timeWeek": 1457,
+    "timeMonth": 1454,
+    "timeYear": 993,
     "dailyMinutesDown": {
-      "2025-08-15": 0
+      "2025-08-15": 15
     }
   }
 ]
