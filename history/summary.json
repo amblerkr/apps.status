@@ -4,107 +4,119 @@
     "url": "https://svg-to-png.ambler.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/svg-to-png.ambler.kr.ico",
     "slug": "svg-to-png-ambler-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 268,
     "timeDay": 206,
-    "timeWeek": 237,
+    "timeWeek": 236,
     "timeMonth": 254,
     "timeYear": 268,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-22": 0
+    }
   },
   {
     "name": "notion-widgets.ambler.kr",
     "url": "https://notion-widgets.ambler.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/notion-widgets.ambler.kr.ico",
     "slug": "notion-widgets-ambler-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 251,
     "timeDay": 192,
-    "timeWeek": 269,
+    "timeWeek": 236,
     "timeMonth": 271,
     "timeYear": 255,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-22": 0
+    }
   },
   {
     "name": "discord-ifttt.ambler.kr",
     "url": "https://discord-ifttt.ambler.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/discord-ifttt.ambler.kr.ico",
     "slug": "discord-ifttt-ambler-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 246,
     "timeDay": 64,
-    "timeWeek": 236,
+    "timeWeek": 235,
     "timeMonth": 253,
     "timeYear": 241,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-22": 0
+    }
   },
   {
     "name": "calendar-svg.ambler.kr",
     "url": "https://calendar-svg.ambler.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/calendar-svg.ambler.kr.ico",
     "slug": "calendar-svg-ambler-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 231,
     "timeDay": 188,
-    "timeWeek": 313,
+    "timeWeek": 320,
     "timeMonth": 244,
     "timeYear": 234,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-22": 0
+    }
   },
   {
     "name": "github-readme-stats.ambler.kr",
     "url": "https://github-readme-stats.ambler.kr/api?username=amblerkr",
     "icon": "https://icons.duckduckgo.com/ip3/github-readme-stats.ambler.kr.ico",
     "slug": "github-readme-stats-ambler-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 822,
+    "time": 821,
     "timeDay": 1192,
-    "timeWeek": 1225,
+    "timeWeek": 1194,
     "timeMonth": 948,
     "timeYear": 817,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-22": 0
+    }
   },
   {
     "name": "rsshub.ambler.kr",
     "url": "https://rsshub.ambler.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/rsshub.ambler.kr.ico",
     "slug": "rsshub-ambler-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 934,
+    "time": 936,
     "timeDay": 433,
-    "timeWeek": 1107,
+    "timeWeek": 1202,
     "timeMonth": 1436,
     "timeYear": 983,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-22": 0
+    }
   }
 ]
