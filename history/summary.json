@@ -6,18 +6,16 @@
     "slug": "svg-to-png-ambler-kr",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 268,
-    "timeDay": 187,
-    "timeWeek": 229,
-    "timeMonth": 252,
-    "timeYear": 268,
-    "dailyMinutesDown": {
-      "2025-08-22": 6
-    }
+    "timeDay": 177,
+    "timeWeek": 221,
+    "timeMonth": 247,
+    "timeYear": 267,
+    "dailyMinutesDown": {}
   },
   {
     "name": "notion-widgets.ambler.kr",
@@ -26,18 +24,16 @@
     "slug": "notion-widgets-ambler-kr",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 251,
-    "timeDay": 222,
-    "timeWeek": 238,
-    "timeMonth": 271,
-    "timeYear": 255,
-    "dailyMinutesDown": {
-      "2025-08-22": 6
-    }
+    "timeDay": 229,
+    "timeWeek": 228,
+    "timeMonth": 269,
+    "timeYear": 254,
+    "dailyMinutesDown": {}
   },
   {
     "name": "discord-ifttt.ambler.kr",
@@ -46,18 +42,16 @@
     "slug": "discord-ifttt-ambler-kr",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 246,
-    "timeDay": 157,
-    "timeWeek": 236,
-    "timeMonth": 253,
-    "timeYear": 241,
-    "dailyMinutesDown": {
-      "2025-08-22": 6
-    }
+    "timeDay": 227,
+    "timeWeek": 170,
+    "timeMonth": 249,
+    "timeYear": 240,
+    "dailyMinutesDown": {}
   },
   {
     "name": "calendar-svg.ambler.kr",
@@ -66,18 +60,16 @@
     "slug": "calendar-svg-ambler-kr",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 231,
-    "timeDay": 237,
-    "timeWeek": 316,
-    "timeMonth": 245,
-    "timeYear": 235,
-    "dailyMinutesDown": {
-      "2025-08-22": 6
-    }
+    "timeDay": 238,
+    "timeWeek": 319,
+    "timeMonth": 243,
+    "timeYear": 234,
+    "dailyMinutesDown": {}
   },
   {
     "name": "github-readme-stats.ambler.kr",
@@ -86,18 +78,16 @@
     "slug": "github-readme-stats-ambler-kr",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 822,
-    "timeDay": 728,
-    "timeWeek": 1091,
-    "timeMonth": 929,
-    "timeYear": 816,
-    "dailyMinutesDown": {
-      "2025-08-22": 6
-    }
+    "timeDay": 783,
+    "timeWeek": 1058,
+    "timeMonth": 900,
+    "timeYear": 818,
+    "dailyMinutesDown": {}
   },
   {
     "name": "rsshub.ambler.kr",
@@ -106,17 +96,15 @@
     "slug": "rsshub-ambler-kr",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 936,
-    "timeDay": 359,
-    "timeWeek": 1100,
-    "timeMonth": 1404,
-    "timeYear": 981,
-    "dailyMinutesDown": {
-      "2025-08-22": 6
-    }
+    "time": 931,
+    "timeDay": 352,
+    "timeWeek": 783,
+    "timeMonth": 1313,
+    "timeYear": 980,
+    "dailyMinutesDown": {}
   }
 ]
