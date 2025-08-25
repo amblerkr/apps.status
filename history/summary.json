@@ -4,19 +4,19 @@
     "url": "https://svg-to-png.ambler.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/svg-to-png.ambler.kr.ico",
     "slug": "svg-to-png-ambler-kr",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "97.94%",
-    "uptimeWeek": "99.71%",
+    "uptimeDay": "97.75%",
+    "uptimeWeek": "99.68%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
-    "time": 267,
-    "timeDay": 284,
-    "timeWeek": 238,
+    "time": 268,
+    "timeDay": 280,
+    "timeWeek": 241,
     "timeMonth": 249,
     "timeYear": 268,
     "dailyMinutesDown": {
-      "2025-08-25": 30
+      "2025-08-25": 33
     }
   },
   {
@@ -26,8 +26,8 @@
     "slug": "notion-widgets-ambler-kr",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "97.99%",
-    "uptimeWeek": "99.71%",
+    "uptimeDay": "97.80%",
+    "uptimeWeek": "99.69%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 251,
@@ -36,7 +36,7 @@
     "timeMonth": 271,
     "timeYear": 255,
     "dailyMinutesDown": {
-      "2025-08-25": 29
+      "2025-08-25": 32
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://discord-ifttt.ambler.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/discord-ifttt.ambler.kr.ico",
     "slug": "discord-ifttt-ambler-kr",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.05%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "97.85%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 236,
-    "timeDay": 223,
-    "timeWeek": 204,
+    "timeDay": 229,
+    "timeWeek": 208,
     "timeMonth": 246,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2025-08-25": 28
+      "2025-08-25": 31
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://calendar-svg.ambler.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/calendar-svg.ambler.kr.ico",
     "slug": "calendar-svg-ambler-kr",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.09%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "97.90%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 231,
-    "timeDay": 217,
-    "timeWeek": 229,
-    "timeMonth": 242,
+    "timeDay": 226,
+    "timeWeek": 231,
+    "timeMonth": 243,
     "timeYear": 234,
     "dailyMinutesDown": {
-      "2025-08-25": 27
+      "2025-08-25": 30
     }
   },
   {
@@ -84,19 +84,19 @@
     "url": "https://github-readme-stats.ambler.kr/api?username=amblerkr",
     "icon": "https://icons.duckduckgo.com/ip3/github-readme-stats.ambler.kr.ico",
     "slug": "github-readme-stats-ambler-kr",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.15%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "97.95%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
-    "time": 824,
-    "timeDay": 1074,
-    "timeWeek": 1134,
-    "timeMonth": 935,
-    "timeYear": 823,
+    "time": 826,
+    "timeDay": 1055,
+    "timeWeek": 1122,
+    "timeMonth": 937,
+    "timeYear": 824,
     "dailyMinutesDown": {
-      "2025-08-25": 27
+      "2025-08-25": 29
     }
   },
   {
@@ -104,19 +104,19 @@
     "url": "https://rsshub.ambler.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/rsshub.ambler.kr.ico",
     "slug": "rsshub-ambler-kr",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.19%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.99%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 941,
-    "timeDay": 1485,
-    "timeWeek": 1036,
-    "timeMonth": 1171,
-    "timeYear": 987,
+    "timeDay": 1203,
+    "timeWeek": 974,
+    "timeMonth": 1149,
+    "timeYear": 985,
     "dailyMinutesDown": {
-      "2025-08-25": 26
+      "2025-08-25": 29
     }
   }
 ]
