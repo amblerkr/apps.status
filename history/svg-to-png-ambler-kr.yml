@@ -1,7 +1,7 @@
 url: https://svg-to-png.ambler.kr/
-status: up
-code: 200
-responseTime: 262
-lastUpdated: 2025-10-19T23:14:59.654Z
+status: down
+code: 500
+responseTime: 3358
+lastUpdated: 2025-10-20T07:10:04.763Z
 startTime: 2022-12-22T19:05:53.000Z
 generator: Upptime <https://github.com/upptime/upptime>
